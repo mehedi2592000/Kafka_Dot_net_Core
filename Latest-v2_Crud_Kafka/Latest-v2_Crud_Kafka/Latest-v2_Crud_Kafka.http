@@ -1,0 +1,6 @@
+@Latest_v2_Crud_Kafka_HostAddress = http://localhost:5116
+
+GET {{Latest_v2_Crud_Kafka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

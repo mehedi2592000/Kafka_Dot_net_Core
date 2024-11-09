@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Latest-v2_Crud_Kafka.props" />
+</Project>

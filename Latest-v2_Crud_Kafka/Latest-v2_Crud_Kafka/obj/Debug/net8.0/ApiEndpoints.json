@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Latest_v2_Crud_Kafka.Controllers.CustomerController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer",
+        "Type": "Latest_v2_Crud_Kafka.Model.Customer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Latest_v2_Crud_Kafka.Controllers.CustomerController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Latest_v2_Crud_Kafka.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "Latest_v2_Crud_Kafka.Model.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Latest_v2_Crud_Kafka.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
